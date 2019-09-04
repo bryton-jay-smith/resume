@@ -1,96 +1,32 @@
-.card {
-  border-radius: 0;
-  border: none;
-  padding: 2em;
-  height: 100%;
+.img-bubble {
+    border-radius: 100%;
 }
 
-html {
-  font-size: 100%;
+.name-header {
+    font-size: 7em;
 }
 
-.one {
-  font-size: 1em;
+.font-1 {
+    font-size: 1em;
 }
 
-.one-one-two {
-  font-size: 1.25em;
+.font-1p5 {
+    font-size: 1.5em;
 }
 
-.one-two {
-  font-size: 1.5em;
+.font-2 {
+    font-size: 2em;
 }
 
-.one-two-two {
-  font-size: 1.75em;
+.font-2p5 {
+    font-size: 2.5em;
 }
 
-.two {
-  font-size: 2em;
+.font-3 {
+    font-size: 3em;
 }
 
-.two-three {
-  font-size: 2.5em;
-}
-
-.three {
-  font-size: 3em;
-}
-
-.three-four {
-  font-size: 3.5em;
-  line-height: 1em;
-}
-
-.four {
-  font-size: 4em;
-  line-height: 1em;
-}
-
-.italic {
-  font-style: italic;
-}
-
-.spacer-t-5 {
-  padding-top: 5em;
-}
-
-.spacer-t-10 {
-  padding-top: 10em;
-}
-
-.spacer-t-15 {
-  padding-top: 15em;
-}
-
-.spacer-t-20 {
-  padding-top: 12em;
-}
-
-.spacer-b-5 {
-  padding-bottom: 5em;
-}
-
-.spacer-b-10 {
-  padding-bottom: 10em;
-}
-
-.spacer-b-15 {
-  padding-bottom: 15em;
-}
-
-.spacer-b-20 {
-  padding-bottom: 20em;
-}
-
-.spacer-b-25 {
-  padding-bottom: 25em;
-}
-
-.spacer-b-30 {
-  padding-bottom: 35em;
-}
-
-.bg-light {
-  background-color: white;
+.title {
+    background-color: lightgrey;
+    border-radius: 10px;
 }
